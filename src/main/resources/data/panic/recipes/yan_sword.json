@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "panic:celestine"
+    },
+    "P": {
+      "item": "panic:pentagram"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "P",
+    "C",
+    "B"
+  ],
+  "result": {
+    "item": "panic:yan_sword"
+  }
+}

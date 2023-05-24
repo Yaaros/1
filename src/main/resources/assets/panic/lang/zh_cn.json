@@ -1,0 +1,20 @@
+{
+  "item.panic.celestine": "1",
+  "item.panic.pentagram": "2",
+  "item.panic.raw_celestine": "3",
+  "itemGroup.test_tab": "TEST_TAB",
+  "itemGroup.test_tab_2": "TEST_TAB_2",
+  "item.panic.dice": "骰子",
+  "block.panic.celestine_block": "Block of Celestine",
+  "block.panic.celestine_ore": "Celestine Ore",
+  "block.panic.deepslate_celestine_ore": "Deepslate_Celestine Ore",
+  "block.panic.trampoline": "上升气流",
+  "block.panic.celestine_lamp": "灯",
+  "entity.minecraft.villager.panic.wizard": "？商",
+  "entity.minecraft.villager.panic.lexicy": "雷克萨",
+  "block.panic.pentagram_enchanting_table": "Pentagram_Enchanting_Table",
+  "block.panic.end_celestine_ore": "End_Celestine_Ore",
+  "item.panic.ghast_y_spawn_egg": "生成",
+  "entity.panic.ghast_y": "Ghast Y",
+  "item.panic.yan_sword": "Test Sword"
+}

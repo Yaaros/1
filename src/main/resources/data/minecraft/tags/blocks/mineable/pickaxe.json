@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "panic:celestine_block",
+    "panic:celestine_ore",
+    "panic:deepslate_celestine_ore",
+    "panic:pentagram_enchanting_table",
+    "panic:celestine_lamp",
+    "panic:end_celestine_ore"
+  ]
+}

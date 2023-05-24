@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=true": {
+      "model": "panic:block/celestine_lamp_on"
+    },
+    "lit=false": {
+      "model": "panic:block/celestine_lamp"
+    }
+  }
+}

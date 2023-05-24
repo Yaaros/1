@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "celestine",
+  "ingredients": [
+    {
+      "item": "panic:celestine_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "panic:celestine"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "item.panic.celestine": "Celestine",
+  "item.panic.pentagram": "Pentagram",
+  "item.panic.raw_celestine": "Raw_Celestine",
+  "itemGroup.test_tab": "TEST_TAB",
+  "itemGroup.test_tab_2": "TEST_TAB_2",
+  "item.panic.dice": "Dice",
+  "block.panic.celestine_block": "Block of Celestine",
+  "block.panic.celestine_ore": "Celestine Ore",
+  "block.panic.deepslate_celestine_ore": "Deepslate_Celestine Ore",
+  "block.panic.trampoline": "Trampoline",
+  "block.panic.celestine_lamp": "Celestine Lamp",
+  "entity.minecraft.villager.panic.wizard": "Wizard",
+  "entity.minecraft.villager.panic.lexicy": "Lexicy",
+  "block.panic.pentagram_enchanting_table": "Pentagram_Enchanting_Table",
+  "block.panic.end_celestine_ore": "End_Celestine_Ore",
+  "item.panic.ghast_y_spawn_egg": "Ghast Spawn Egg",
+  "entity.panic.ghast_y": "Ghast Y",
+  "item.panic.yan_sword": "Yan Sword"
+}
